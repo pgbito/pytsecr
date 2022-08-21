@@ -2,7 +2,7 @@
 **Pytse** (Tribunal Supremo de Elecciones) es un api wrapper para Python 3.7 (o versiones mas nuevas) que te permite interactuar con la pagina web **[Servicios electorales](https://servicioselectorales.tse.go.cr/chc/)** del Tribunal desde Python.
 
 ## Documentacion / Ayuda
-Podes encontrar ayuda **[aca](https://pytsecr.readthedocs.io/)**, abrir un **[Issue]()** en este repositorio, o contactarme en **[Mi Telegram](https://t.me/pgbito)**
+Podes encontrar ayuda **[aca](https://pytsecr.readthedocs.io/)**, abrir un **[Issue](https://github.com/pgbito/pytsecr/issues/new)** en este repositorio, o contactarme en **[Mi Telegram](https://t.me/pgbito)**
 ## Ejemplo:
 ```python
 >>> from pytsecr import tseclient
