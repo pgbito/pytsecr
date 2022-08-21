@@ -1,0 +1,5 @@
+build/
+dist/
+pytsecr.egg-info/
+*.egg
+.vscode/
